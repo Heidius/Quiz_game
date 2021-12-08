@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I' Ignacio
+
+ 🌱 I’m currently learning Computer Science at LSBU
 
 <!--
 **Heidius/Heidius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
